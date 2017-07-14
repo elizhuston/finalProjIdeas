@@ -21,7 +21,7 @@
     - As a user, I would like to have the capability to invite family members to reunions or other family events
  
     
- 2)  Elizabeth's Manhattan Cheesecake - an online site for ordering and raving about the worlds best cheesecake. (Just don't tell Joe)
+ 2)  Elizabeth's Manhattan Cheesecake Shop - an online site for ordering and raving about the worlds best cheesecake. (Just don't tell Joe)
        
        
         
