@@ -3,6 +3,8 @@
 1) A Family Social Networking/Archive site that would allow users to create a private group, closed to all except family members and provide a private forum 
    to share news, history, photos, videos and recipes with one another.  Sort of a combination of Nextdoor, Facebook, and All Recipes.
     
+    MVP and Technology used for the project will be selected/determined by the team doing the work.  Obviously, we'll need at least a web server, a database, and application security.  
+    
     User Stories/Backlog - 
     
     - A user would be able to create their own account
