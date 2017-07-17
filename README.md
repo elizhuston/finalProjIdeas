@@ -1,4 +1,4 @@
-# finalProjIdeas
+# Family Reserve
 
 1) A Family Social Networking/Archive site that would allow users to create a private group, closed to all except family members and provide a private forum 
    to share news, history, photos, videos and recipes with one another.  Sort of a combination of Nextdoor, Facebook, and All Recipes.
