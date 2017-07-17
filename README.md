@@ -10,9 +10,9 @@
     - A user would be able to create their own account
     - A user would be able to login to their account
     - A user would be able to add other family members to their family
-    - A user would be able to designate other family members as administrators
+    - A a family administrator, I would be able to designate other family members as administrators
     - As a family administrator, I need to be certain only administrators can add new family members
-    - As a user I need to be able to upload family photos for members of my family
+    - As a user I need to be able to upload family photos for members of my family - use 3rd party photo service, store URLs in db
     - As a user I need to be able to add recipes to our family recipe box
     - As a user I need to be able to write family history information, include news articles, etc...
     - As a user I need to be able to view and print recipes from our family recipe box
